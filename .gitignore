@@ -1,3 +1,6 @@
 /*
 !.gitignore
 !src/
+src/deep-learning/CNN - convolutional neuronal network/dataset/*
+src/deep-learning/CNN - convolutional neuronal network/dataset.zip
+.
